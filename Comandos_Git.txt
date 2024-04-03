@@ -2,4 +2,6 @@ git add "FILENAME.TXT" = Adiciona o arquivo na area de estagios
 A area de estágio é a parte 2 do processo de Commit no Git; A area de estágio é como se fosse a sala de espera para as suas mudanças no arquivo até você dar um commit nelas.
 
 
-git status = Ver como está o estado geral do git
+git status = Ver como está o estado geral do git, após dar um git add em
+um arquivo, verá que o nome dele se tornará verde, usando git status,
+o que significa que agora ele está na area de estagio.
