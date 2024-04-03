@@ -17,3 +17,4 @@ git commit = Ele leva as mudanças de um ambiente local para o repositório no g
 Para saber algumas informações sobre a ramificação na qual você está trabalhando agora, use o “status”. Esse comando esclarece quais arquivos foram alterados e faz uma comparação com relação à ramificação principal.
 
 git commit -m "Comentario" = deixa um comentario descritivo da mudança.
+s
